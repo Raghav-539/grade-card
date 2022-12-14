@@ -1,0 +1,31 @@
+[
+  {
+    "statusCode": 200,
+    "userid": "1",
+    "name": "cda",
+    "address": "csdvd",
+    "python": 21,
+    "java": 32,
+    "cpp": 23,
+    "frontend": 32,
+    "backend": 34,
+    "total": "Total marks scored by student : 142",
+    "avg": "Avg marks of student : 47",
+    "grade": "Your grade is E."
+  },
+  {
+    "statusCode": 200,
+    "userid": "1",
+    "name": "ded",
+    "address": "dqe",
+    "python": 12,
+    "java": 33,
+    "cpp": 34,
+    "frontend": 54,
+    "backend": 23,
+    "total": "Total marks scored by student : 156",
+    "avg": "Avg marks of student : 52",
+    "grade": "Your grade is D."
+  }
+]
+
